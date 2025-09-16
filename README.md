@@ -19,3 +19,74 @@ saludo = "Hola " + nombre.upper()
 | `nombre`   | Variable                   | Se usa dentro de la llamada a función. |
 | `.upper()` | método de cadena           | Convierte la variable en mayúsculas.   |
 
+
+## Apartado a
+Expresión: 
+
+```python
+total = precio * cantidad + 5
+```
+| Elemento   | Tipo                       | Explicación breve                      |
+| ---------- | -------------------------- | -------------------------------------- |
+|            |                            |                                        |
+
+## Apartado b
+Expresión: 
+
+```python
+es_mayor = edad >= 18 and tiene_documento
+```
+| Elemento   | Tipo                       | Explicación breve                      |
+| ---------- | -------------------------- | -------------------------------------- |
+|            |                            |                                        |
+
+## Apartado c
+Expresión: 
+
+```python
+mensaje = "Hola, " + nombre + "!"
+```
+| Elemento   | Tipo                       | Explicación breve                      |
+| ---------- | -------------------------- | -------------------------------------- |
+|            |                            |                                        |
+
+## Apartado d
+Expresión: 
+
+```python
+promedio = (nota1 + nota2 + nota3) / 3.0
+```
+| Elemento   | Tipo                       | Explicación breve                      |
+| ---------- | -------------------------- | -------------------------------------- |
+|            |                            |                                        |
+
+## Apartado e
+Expresión: 
+
+```python
+resultado = not (usuario == "admin" or intentos > 3)
+```
+| Elemento   | Tipo                       | Explicación breve                      |
+| ---------- | -------------------------- | -------------------------------------- |
+|            |                            |                                        |
+
+## Apartado f
+Expresión: 
+
+```python
+longitud = len(nombre) + 3
+```
+| Elemento   | Tipo                       | Explicación breve                      |
+| ---------- | -------------------------- | -------------------------------------- |
+|            |                            |                                        |
+
+## Apartado g
+Expresión: 
+
+```python
+resultado = "Hola, " + nombre.strip().upper() + ". Tu número al cuadrado es " + str(numero ** 2) + " y su resto al dividir por 5 es " + str((numero ** 2) % 5)
+```
+| Elemento   | Tipo                       | Explicación breve                      |
+| ---------- | -------------------------- | -------------------------------------- |
+|            |                            |                                        |
+
