@@ -185,3 +185,24 @@ Corrección:
 ```python
 ________________________________________________
 ```
+
+## Ejercicio 3 - Escribir expresiones
+
+Para practicar con expresiones, cree dos módulos `funciones.py` y `funciones_test.py` para escribir y probar las siguientes funciones. Escriba el código de la función en el módulo `funciones` y el código para probarla
+en el módulo `funciones_test`.
+### Apartado a
+
+Función que reciba como entrada el peso y la estatura de una persona y calcule su índice de masa corporal o IMC, según la siguiente fórmula:
+𝐼𝑀𝐶=𝑝𝑒𝑠𝑜/〖𝑒𝑠𝑡𝑎𝑡𝑢𝑟𝑎〗^2 
+
+### Apartado b
+Función que calcule el perímetro de un rectángulo dadas su base y su altura.
+
+### Apartado c
+Función que reciba los catetos de un triángulo rectángulo y devuelva su hipotenusa.
+
+### Apartado d
+Función que dado un año devuelva True si ese año es bisiesto. Un año es bisiesto si es divisible por 400 o si es divisible por 4, pero no por 100.
+
+### Apartado e
+Función que convierta un valor dado en grados Fahrenheit a grados Celsius. Recuerda que la fórmula para la conversión es C = (F-32)*5/9<img width="3006" height="476" alt="image" src="https://github.com/user-attachments/assets/c5d4a83c-2d85-49ce-a04b-0e1819a545e6" />
