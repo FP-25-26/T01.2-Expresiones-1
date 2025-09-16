@@ -193,7 +193,8 @@ en el módulo `funciones_test`.
 ### Apartado a
 
 Función que reciba como entrada el peso y la estatura de una persona y calcule su índice de masa corporal o IMC, según la siguiente fórmula:
-𝐼𝑀𝐶=𝑝𝑒𝑠𝑜/〖𝑒𝑠𝑡𝑎𝑡𝑢𝑟𝑎〗^2 
+
+<img width="209" height="63" alt="image" src="https://github.com/user-attachments/assets/d8f57f5d-860b-4003-9ce7-ba7f5ab3ee91" />
 
 ### Apartado b
 Función que calcule el perímetro de un rectángulo dadas su base y su altura.
@@ -205,4 +206,4 @@ Función que reciba los catetos de un triángulo rectángulo y devuelva su hipot
 Función que dado un año devuelva True si ese año es bisiesto. Un año es bisiesto si es divisible por 400 o si es divisible por 4, pero no por 100.
 
 ### Apartado e
-Función que convierta un valor dado en grados Fahrenheit a grados Celsius. Recuerda que la fórmula para la conversión es C = (F-32)*5/9<img width="3006" height="476" alt="image" src="https://github.com/user-attachments/assets/c5d4a83c-2d85-49ce-a04b-0e1819a545e6" />
+Función que convierta un valor dado en grados Fahrenheit a grados Celsius. Recuerda que la fórmula para la conversión es C = (F-32)*5/9
