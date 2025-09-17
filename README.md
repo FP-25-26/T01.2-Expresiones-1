@@ -207,3 +207,15 @@ Función que dado un año devuelva True si ese año es bisiesto. Un año es bisi
 
 ### Apartado e
 Función que convierta un valor dado en grados Fahrenheit a grados Celsius. Recuerda que la fórmula para la conversión es C = (F-32)*5/9
+
+### Apartado f
+Tres segmentos de longitudes a, b y c pueden constituir un triángulo si las sumas de dos cualesquiera de ellos es mayor que el tercero. Por ejemplo, 7, 4 y 5 sí pueden constituir un triángulo porque 4+5>7, 7+5>4 y 7+4>5, pero 10, 3 y 4 no, ya que 4+3<10. Implemente una función llamada triangulo1 que devuelva cierto si tres longitudes pueden formar un triángulo.
+
+### Apartado g
+Tres segmentos de longitudes a, b y c pueden constituir un triángulo si todos los lados son menores que su semiperímetro (a+b+c)/2. Implemente una función llamada triangulo2 que devuelva cierto si tres longitudes pueden formar un triángulo.
+
+### Apartado h
+Tres números forman una terna pitagórica si la suma al cuadrado de dos de ellos da el tercero a Pl cuadrado. Implemente una función terna_pitagorica tal que dados tres valores numéricos enteros devuelva cierto si los tres valores forman una terna pitagórica.
+
+### Apartado i
+Defina una función denominada triangular tal que dados dos números enteros m y n se define como el cociente entre el valor absoluto de n y el producto de los valores absolutos de n-m y m. Por ejemplo, si n=-3 y m=2 triangular de n y m es 3/(2x5)=0,3, si n=5 y m=-2, entonces triangular(n,m) es igual a 5/(2x7)=5/14. Use la función abs del módulo math para calcular el valor absoluto.
